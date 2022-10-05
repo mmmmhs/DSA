@@ -1,0 +1,5 @@
+*_M*/
+*.exe
+.vscode/
+*.zip
+*.txt
